@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/denyocrworld/read-json-to-list-view-getx/master/ss.png =250x)
+<img src="https://raw.githubusercontent.com/denyocrworld/read-json-to-list-view-getx/master/ss.png" width="200"/>
 
 ### Baca JSON file dari Fluter
 ```
